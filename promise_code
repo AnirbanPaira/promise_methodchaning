@@ -1,0 +1,20 @@
+function promp(condition) {
+//   return new Promise(function (resolve, reject) {
+//     console.log("fetching data.....");
+//     setTimeout(() => {
+//       if (condition) {
+//         resolve("kam kare laga hai");
+//       } else {
+//         reject("kam nhi kar raha hai ");
+//       }
+//     }, 2000);
+//   });
+// }
+
+// promp(true)
+//   .then((result) => {
+//     console.log(result);
+//   })
+//   .catch((error) => {
+//     console.log(error);
+//   });
